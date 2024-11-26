@@ -1,2 +1,2 @@
 # TelcoCostumerChurn
-Predecir salidas de clientes de elecomunicaciones
+Predecir salidas de clientes de Telecomunicaciones
